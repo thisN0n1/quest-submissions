@@ -9,7 +9,7 @@ A blockchain is a distributed database that is shared among the nodes of a compu
 A smart contract is a set of instructions that is deployed on the blockchain to act in a specific way.
 
 # Explain the difference between a script and a transaction.
-A script is used to view data while a transaction is used to change data on the blockchain.
+A script is used to view data on the blockchain and doesn't incur charges, while a transaction is used to change data on the blockchain and incurs charges.
 
 
 # Chapter 1 Day 2
