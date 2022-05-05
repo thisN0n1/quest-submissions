@@ -26,4 +26,8 @@ The 5 Cadence Programming Language Pillars are:
 - code should be easy to read 
 - code should be familiar with other languages for easy transistion
 - debugging should be easy and errors not had to trace for developers
-- 
+
+
+# Chapter 2 Day 1
+https://play.onflow.org/143229e9-47f7-4ccd-ab39-3d4aa5de2c8c?type=account&id=4f8af465-0553-4562-af27-609a0774eba9&storage=none
+https://play.onflow.org/143229e9-47f7-4ccd-ab39-3d4aa5de2c8c?type=script&id=e3f351fd-4a55-4f9c-9ca6-b2fca1c6d5fc&storage=none
