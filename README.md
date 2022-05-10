@@ -43,4 +43,5 @@ It means that the smart contract is granting a particular account acccess to dat
 # What is the difference between the prepare phase and the execute phase in the transaction?
 The difference is that the prepare phase gives access to data in the account, while the execution pjhase can't do that but can call functions or modify data in the blockchain.
 
-
+# I'm stuck at the adding a script part
+https://play.onflow.org/936fa762-774e-46a8-b2a8-ae8fe08f8db0?type=script&id=a32b5855-b169-44de-bfea-0de1d5dcbe83&storage=none
