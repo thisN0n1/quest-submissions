@@ -31,3 +31,16 @@ The 5 Cadence Programming Language Pillars are:
 # Chapter 2 Day 1
 https://play.onflow.org/143229e9-47f7-4ccd-ab39-3d4aa5de2c8c?type=account&id=4f8af465-0553-4562-af27-609a0774eba9&storage=none
 https://play.onflow.org/143229e9-47f7-4ccd-ab39-3d4aa5de2c8c?type=script&id=e3f351fd-4a55-4f9c-9ca6-b2fca1c6d5fc&storage=none
+
+# Chapter 2 Day 2
+
+# Explain why we wouldn't call changeGreeting in a script.
+Recall that we can only read from and not modify a script, hence the reason why we we wouldn't call changeGreeting in a script.
+
+# What does the AuthAccount mean in the prepare phase of the transaction?
+It means that the smart contract is granting a particular account acccess to data in the smart contract.
+
+# What is the difference between the prepare phase and the execute phase in the transaction?
+The difference is that the prepare phase gives access to data in the account, while the execution pjhase can't do that but can call functions or modify data in the blockchain.
+
+
