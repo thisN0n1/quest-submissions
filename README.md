@@ -41,7 +41,7 @@ Recall that we can only read from and not modify a script, hence the reason why 
 It means that the smart contract is granting a particular account acccess to data in the smart contract.
 
 # What is the difference between the prepare phase and the execute phase in the transaction?
-The difference is that the prepare phase gives access to data in the account, while the execution pjhase can't do that but can call functions or modify data in the blockchain.
+The difference is that the prepare phase gives access to data in the account, while the execution phase can't do that but can call functions or modify data in the blockchain.
 
-# I'm stuck at the adding a script part
-https://play.onflow.org/936fa762-774e-46a8-b2a8-ae8fe08f8db0?type=script&id=a32b5855-b169-44de-bfea-0de1d5dcbe83&storage=none
+# Pls find link below for question #4
+https://play.onflow.org/0ef89793-f72b-45fc-b70a-bb4864d07d51?type=account&id=641f4181-2125-424c-91c5-149e95930a51&storage=none
