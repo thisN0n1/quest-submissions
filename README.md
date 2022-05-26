@@ -59,6 +59,11 @@ https://play.onflow.org/d03d565a-b00b-46a2-a7b7-b68280de106a?type=script&id=fec6
 The force unwrap operator unwraps an optional type without having to check if it's nil or not.
 Example: https://play.onflow.org/d03d565a-b00b-46a2-a7b7-b68280de106a?type=script&id=fec6d96c-d754-40bd-abe9-e06cebe31ff1&storage=none
 
+# Using this picture below, explain...
+- What the error message means: It means it's an optional.
+- Why we're getting this error: It is because String? is an optional so it maybe String or nil
+- How to fix it: We canfix this by using the force unwrap operator (!).
+
 
 
 
