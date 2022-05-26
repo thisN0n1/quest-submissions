@@ -38,10 +38,27 @@ https://play.onflow.org/143229e9-47f7-4ccd-ab39-3d4aa5de2c8c?type=script&id=e3f3
 Recall that we can only read from and not modify a script, hence the reason why we we wouldn't call changeGreeting in a script.
 
 # What does the AuthAccount mean in the prepare phase of the transaction?
-It means that the smart contract is granting a particular account acccess to data in the smart contract.
+It means that the smart contract is granting a particular account acccess to data in the account.
 
 # What is the difference between the prepare phase and the execute phase in the transaction?
 The difference is that the prepare phase gives access to data in the account, while the execution phase can't do that but can call functions or modify data in the blockchain.
 
 # Pls find link below for question #4
 https://play.onflow.org/0ef89793-f72b-45fc-b70a-bb4864d07d51?type=account&id=641f4181-2125-424c-91c5-149e95930a51&storage=none
+
+
+# Chapter 2 Day 3
+
+# In a script, initialize an array (that has length == 3) of your favourite people, represented as Strings, and log it.
+https://play.onflow.org/d03d565a-b00b-46a2-a7b7-b68280de106a?type=script&id=fec6d96c-d754-40bd-abe9-e06cebe31ff1&storage=none
+
+# In a script, initialize a dictionary that maps the Strings Facebook, Instagram, Twitter, YouTube, Reddit, and LinkedIn to a UInt64 that represents the order in which you use them from most to least. For example, YouTube --> 1, Reddit --> 2, etc. If you've never used one before, map it to 0!
+https://play.onflow.org/d03d565a-b00b-46a2-a7b7-b68280de106a?type=script&id=fec6d96c-d754-40bd-abe9-e06cebe31ff1&storage=none
+
+# Explain what the force unwrap operator ! does, with an example different from the one I showed you (you can just change the type).
+The force unwrap operator unwraps an optional type without having to check if it's nil or not.
+Example: https://play.onflow.org/d03d565a-b00b-46a2-a7b7-b68280de106a?type=script&id=fec6d96c-d754-40bd-abe9-e06cebe31ff1&storage=none
+
+
+
+
